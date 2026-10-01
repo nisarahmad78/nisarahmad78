@@ -84,10 +84,18 @@
 
 <div align="center">
 
+### Contribution Arcade
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/github-contribution-grid-snake.svg"/>
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man contribution graph animation" src="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/pacman-contribution-graph.svg"/>
 </picture>
 
 </div>
