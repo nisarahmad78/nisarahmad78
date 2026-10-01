@@ -1,4 +1,12 @@
-# Hi, I'm Nisar Ahmad
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0ea5e9,100:22d3ee&height=170&section=header&text=Nisar%20Ahmad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Applied%20AI%20Engineer%20%7C%20LLMs,%20RAG%20%26%20Agentic%20AI&descAlignY=57&descSize=17" width="100%"/>
+
+<a href="https://github.com/nisarahmad78">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=I+build+production-grade+AI+systems;RAG+Pipelines+%7C+AI+Agents+%7C+LLM+Backends;LangGraph+%7C+MCP+%7C+FastAPI+%7C+Vector+Search" alt="Typing animation: I build production-grade AI systems" />
+</a>
+
+</div>
 
 **Applied AI Engineer** — I design and build production-grade AI systems: LLM applications, RAG pipelines, and autonomous agents that solve real business problems.
 
@@ -35,10 +43,21 @@
 |---|---|
 | [VOCALIQ](https://github.com/nisarahmad78/VOCALIQ) | Voice AI assistant with real-time voice interaction and an LLM backend using Graph RAG. |
 | [RAG Document Q&A](https://github.com/nisarahmad78/rag-document-qa) | Upload documents and chat with them. FastAPI + ChromaDB retrieval with source-backed answers and a clean web UI. |
-| [LangGraph AI Agent](https://github.com/nisarahmad78/langgraph-ai-agent) | Tool-using AI agent built on LangGraph — calculator, web search, and knowledge lookup — with CLI and API access. |
+| [LangGraph AI Agent](https://github.com/nisarahmad78/langgraph-ai-agent) | Tool-using AI agent built on LangGraph — calculator, web search, and knowledge lookup — with CLI, API, and a web chat UI. |
 | [MCP Server Suite](https://github.com/nisarahmad78/mcp-server-suite) | Production-style Model Context Protocol server (SQL, file search, web fetch tools) with a web demo client. |
 | [AI Support Desk](https://github.com/nisarahmad78/ai-support-desk) | SaaS-style support system with AI auto-triage: category, priority, sentiment, and drafted replies on a live dashboard. |
 | [LLM Gateway](https://github.com/nisarahmad78/llm-gateway) | Unified API in front of LLM providers with auth, rate limiting, streaming, and a cost/latency observability dashboard. |
+
+## Project Gallery
+
+| | |
+|---|---|
+| [![RAG Document Q&A](https://raw.githubusercontent.com/nisarahmad78/rag-document-qa/main/docs/screenshot.png)](https://github.com/nisarahmad78/rag-document-qa) | [![LangGraph AI Agent](https://raw.githubusercontent.com/nisarahmad78/langgraph-ai-agent/main/docs/screenshot.png)](https://github.com/nisarahmad78/langgraph-ai-agent) |
+| **RAG Document Q&A** — chat with your documents, answers with sources | **LangGraph AI Agent** — tool-using agent with a web chat UI |
+| [![MCP Server Suite](https://raw.githubusercontent.com/nisarahmad78/mcp-server-suite/main/docs/screenshot.png)](https://github.com/nisarahmad78/mcp-server-suite) | [![AI Support Desk](https://raw.githubusercontent.com/nisarahmad78/ai-support-desk/main/docs/screenshot.png)](https://github.com/nisarahmad78/ai-support-desk) |
+| **MCP Server Suite** — MCP tools server with a live playground | **AI Support Desk** — AI auto-triage for support tickets |
+| [![LLM Gateway](https://raw.githubusercontent.com/nisarahmad78/llm-gateway/main/docs/screenshot.png)](https://github.com/nisarahmad78/llm-gateway) | |
+| **LLM Gateway** — unified LLM API with cost/latency observability | |
 
 ## GitHub Stats
 
@@ -51,3 +70,7 @@
 - Email: talk2nisar78@gmail.com
 - Upwork: [upwork.com/freelancers/~014aee86c434adbc22](https://www.upwork.com/freelancers/~014aee86c434adbc22)
 - Fiverr: [fiverr.com/nisarahmad7878](https://www.fiverr.com/nisarahmad7878)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0ea5e9,100:1e3a8a&height=90&section=footer" width="100%"/>
+</div>
