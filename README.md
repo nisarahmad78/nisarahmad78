@@ -6,7 +6,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=I+build+production-grade+AI+systems;RAG+Pipelines+%7C+AI+Agents+%7C+LLM+Backends;LangGraph+%7C+MCP+%7C+FastAPI+%7C+Vector+Search" alt="Typing animation: I build production-grade AI systems" />
 </a>
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarahmad78)
+[![Email](https://img.shields.io/badge/Email-talk2nisar78@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talk2nisar78@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014aee86c434adbc22)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nisarahmad7878)
+![Profile Views](https://komarev.com/ghpvc/?username=nisarahmad78&color=0ea5e9&style=for-the-badge)
+
 </div>
+
+## About Me
 
 **Applied AI Engineer** — I design and build production-grade AI systems: LLM applications, RAG pipelines, and autonomous agents that solve real business problems.
 
@@ -24,18 +34,19 @@
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,docker,gcp,postgres,redis,git,github,typescript,nextjs,nodejs,linux,vscode&perline=15" alt="Tech stack icons" />
+
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Search-FF6B35?style=flat)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=flat)
+
+</div>
 
 ## Featured Projects
 
@@ -61,8 +72,25 @@
 
 ## GitHub Stats
 
-![Nisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisarahmad78&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nisarahmad78&layout=compact)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nisarahmad78&show_icons=true&theme=default" height="165"/>
+<img src="https://streak-stats.demolab.com?user=nisarahmad78&theme=default" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarahmad78&layout=compact" height="165"/>
+
+</div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisarahmad78&theme=github-compact)
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
 
 ## Connect
 
