@@ -62,12 +62,12 @@
 
 | | |
 |---|---|
-| [![RAG Document Q&A](https://raw.githubusercontent.com/nisarahmad78/rag-document-qa/main/docs/screenshot.png)](https://github.com/nisarahmad78/rag-document-qa) | [![LangGraph AI Agent](https://raw.githubusercontent.com/nisarahmad78/langgraph-ai-agent/main/docs/screenshot.png)](https://github.com/nisarahmad78/langgraph-ai-agent) |
-| **RAG Document Q&A** — chat with your documents, answers with sources | **LangGraph AI Agent** — tool-using agent with a web chat UI |
-| [![MCP Server Suite](https://raw.githubusercontent.com/nisarahmad78/mcp-server-suite/main/docs/screenshot.png)](https://github.com/nisarahmad78/mcp-server-suite) | [![AI Support Desk](https://raw.githubusercontent.com/nisarahmad78/ai-support-desk/main/docs/screenshot.png)](https://github.com/nisarahmad78/ai-support-desk) |
-| **MCP Server Suite** — MCP tools server with a live playground | **AI Support Desk** — AI auto-triage for support tickets |
-| [![LLM Gateway](https://raw.githubusercontent.com/nisarahmad78/llm-gateway/main/docs/screenshot.png)](https://github.com/nisarahmad78/llm-gateway) | |
-| **LLM Gateway** — unified LLM API with cost/latency observability | |
+| [![VOCALIQ](https://raw.githubusercontent.com/nisarahmad78/VOCALIQ/main/vocaliq-cover.jpg)](https://github.com/nisarahmad78/VOCALIQ) | [![RAG Document Q&A](https://raw.githubusercontent.com/nisarahmad78/langgraph-ai-agent/main/docs/screenshot.png)](https://github.com/nisarahmad78/rag-document-qa) |
+| **VOCALIQ** — AI voice platform for customer calls (Urdu + English) | **RAG Document Q&A** — chat with your documents, answers with sources |
+| [![LangGraph AI Agent](https://raw.githubusercontent.com/nisarahmad78/mcp-server-suite/main/docs/screenshot.png)](https://github.com/nisarahmad78/langgraph-ai-agent) | [![MCP Server Suite](https://raw.githubusercontent.com/nisarahmad78/rag-document-qa/main/docs/screenshot.png)](https://github.com/nisarahmad78/mcp-server-suite) |
+| **LangGraph AI Agent** — tool-using agent with a web chat UI | **MCP Server Suite** — MCP tools server with a live playground |
+| [![AI Support Desk](https://raw.githubusercontent.com/nisarahmad78/llm-gateway/main/docs/screenshot.png)](https://github.com/nisarahmad78/ai-support-desk) | [![LLM Gateway](https://raw.githubusercontent.com/nisarahmad78/ai-support-desk/main/docs/screenshot.png)](https://github.com/nisarahmad78/llm-gateway) |
+| **AI Support Desk** — AI auto-triage for support tickets | **LLM Gateway** — unified LLM API with cost/latency observability |
 
 ## GitHub Stats
 
