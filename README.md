@@ -79,8 +79,6 @@
 
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisarahmad78&theme=github-compact)
-
 <div align="center">
 
 ### Contribution Arcade
