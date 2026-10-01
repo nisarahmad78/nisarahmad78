@@ -98,6 +98,18 @@
   <img alt="Pac-Man contribution graph animation" src="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/pacman-contribution-graph.svg"/>
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/breakout-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/breakout-contribution-graph.svg"/>
+  <img alt="Breakout contribution graph animation" src="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/breakout-contribution-graph.svg"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/galaga-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/galaga-contribution-graph.svg"/>
+  <img alt="Galaga contribution graph animation" src="https://raw.githubusercontent.com/nisarahmad78/nisarahmad78/output/galaga-contribution-graph.svg"/>
+</picture>
+
 </div>
 
 ## Connect
