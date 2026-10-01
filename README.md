@@ -102,6 +102,14 @@
 
 ## Connect
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nisarahmad78">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=22D3EE&center=true&vCenter=true&width=560&lines=Open+to+interesting+AI+projects;Let%27s+build+something+great+together" alt="Typing animation: open to interesting AI projects" />
+</a>
+
+</div>
+
 - LinkedIn: [linkedin.com/in/nisarahmad78](https://www.linkedin.com/in/nisarahmad78)
 - Email: talk2nisar78@gmail.com
 - Upwork: [upwork.com/freelancers/~014aee86c434adbc22](https://www.upwork.com/freelancers/~014aee86c434adbc22)
