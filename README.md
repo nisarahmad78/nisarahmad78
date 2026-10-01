@@ -12,6 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-talk2nisar78@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talk2nisar78@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014aee86c434adbc22)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nisarahmad7878)
+[![Freelancer](https://img.shields.io/badge/Freelancer-Hire_Me-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/nisarahmad7878)
 
 </div>
 
@@ -123,6 +124,7 @@
 - Email: talk2nisar78@gmail.com
 - Upwork: [upwork.com/freelancers/~014aee86c434adbc22](https://www.upwork.com/freelancers/~014aee86c434adbc22)
 - Fiverr: [fiverr.com/nisarahmad7878](https://www.fiverr.com/nisarahmad7878)
+- Freelancer: [freelancer.com/u/nisarahmad7878](https://www.freelancer.com/u/nisarahmad7878)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0ea5e9,100:1e3a8a&height=90&section=footer" width="100%"/>
